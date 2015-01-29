@@ -1,0 +1,12 @@
+{
+	"color_scheme": "Packages/User/brogrammer (SL).tmTheme",
+	"font_size": 8,
+	"ignored_packages":
+	[
+		"FixMyJS",
+		"Vintage"
+	],
+	"scroll_speed": 2.0,
+	"theme": "Brogrammer.sublime-theme",
+	"translate_tabs_to_spaces": true
+}

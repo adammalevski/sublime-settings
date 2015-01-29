@@ -1,0 +1,44 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_dependencies":
+	[
+		"0_package_control_loader",
+		"bz2",
+		"ssl-linux"
+	],
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"Color Highlighter",
+		"DevDocs",
+		"DocBlockr",
+		"Emmet",
+		"FixMyJS",
+		"Indent XML",
+		"jQuery",
+		"jQueryDocs",
+		"JS-firebug",
+		"Minifier",
+		"Package Control",
+		"Package Syncing",
+		"PackageResourceViewer",
+		"PHP-Twig",
+		"PhpConnector",
+		"Phpcs",
+		"PhpSimpleRefactor",
+		"PHPUnit",
+		"PlainTasks",
+		"SCSS",
+		"SublimeLinter",
+		"SublimeLinter-jscs",
+		"SublimeLinter-php",
+		"SublimeLinter-phpmd",
+		"Theme - Flatland",
+		"Theme - Nexus",
+		"Thinkphp",
+		"Twig",
+		"Xdebug Client"
+	]
+}
